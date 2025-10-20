@@ -7,8 +7,7 @@ This project analyzes historical Olympic Games data to uncover insights about at
 ## Initial Analysis Goals
 
 ### Primary Objectives
-- [ ] **Medal Analysis**: Analyze medal distributions by country, sport, and time period
-- [ ] **Athlete Performance**: Study top-performing athletes and their characteristics
+- [x] **Medal Analysis**: Analyze medal distributions by country, sport, and time period
 - [ ] **Geographic Trends**: Explore regional patterns in Olympic success
 - [ ] **Temporal Analysis**: Identify trends and changes over time (1896-2016)
 - [ ] **Sport-Specific Insights**: Compare performance across different sports
